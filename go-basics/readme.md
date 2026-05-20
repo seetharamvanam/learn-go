@@ -1,0 +1,1 @@
+This module consists of Go basics such as variables 
